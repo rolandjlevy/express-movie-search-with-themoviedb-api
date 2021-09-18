@@ -45,7 +45,6 @@ const fetchMovie = (query) => {
 
 // Render HTML for search form
 const getSearchForm = (query='', size) => {
-  console.log({query})
   return `
     <h2>Movie Search</h2>
     <form method="post" action="/image">
