@@ -8,9 +8,7 @@
 
 The end result is an image path for each movie which includes the size of the image. For example, this uses w185 to set the image width to 185px: https://image.tmdb.org/t/p/w185/r7XF6duZy5ZXmOX7HE3fKGV1WLN.jpg
 
-The dropdown is generated using the poster sizes stored in image_config.mjs which I found [on this forum](https://www.themoviedb.org/talk/53c11d4ec3a3684cf4006400)
-
-> The sizes for the dropdown are:
+The dropdown is generated from the poster sizes in image_config.mjs which I found on [the TMDB support forum](https://www.themoviedb.org/talk/53c11d4ec3a3684cf4006400)
 
 ```json
 "poster_sizes": [
