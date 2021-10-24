@@ -2,8 +2,8 @@
 
 > An Express app that uses the [TMDB API](https://www.themoviedb.org/) to fetch movies and allows you to set the image size. 
 
-- [Live demo](https://replit.com/@RolandJLevy/express-movie-search-with-themoviedb-api)
-- [Source code](https://express-movie-search-with-themoviedb-api.rolandjlevy.repl.co/)
+- [Live demo](https://express-movie-search-with-themoviedb-api.rolandjlevy.repl.co/)
+- [Source code](https://replit.com/@RolandJLevy/express-movie-search-with-themoviedb-api)
 - [Github repo](https://github.com/rolandjlevy/express-movie-search-with-themoviedb-api)
 
 The end result is an image path for each movie which includes the size of the image. For example, this uses w185 to set the image width to 185px: https://image.tmdb.org/t/p/w185/r7XF6duZy5ZXmOX7HE3fKGV1WLN.jpg
